@@ -1,0 +1,109 @@
+html {
+  background: red;
+}
+
+img {
+  box-shadow: 0 2px 20px 0 lime;
+  width: 125%;
+  height: 200px;
+  margin: 0 -30px;
+}
+
+.today {
+  border-radius: 30px;
+  color: #3a44f4;
+  background-color: lime;
+  box-shadow: 0 2px 10px 0;
+  font-size: 30px;
+  ;
+}
+
+h5 {
+  font-size: 30px;
+  margin: -50px 200px 40px 80px;
+}
+
+.cc {
+  width: 100px;
+  position: absolute;
+  height: 100px;
+  border-radius: 70px;
+  padding: 5px;
+  background-color: lime;
+  margin-left: 3%;
+  margin-top: -5%;
+  box-shadow: 0 2px 20px 0 black;
+}
+
+.gg {
+  box-shadow: 0 2px 15px 0;
+  width: 300px;
+  height: 250px;
+  margin: 60px 0 60px 550px;
+}
+
+title {
+  font-size: 75px;
+}
+
+.caption {
+  text-align: right;
+  font-style: italic;
+  font-size: 13px;
+  color: purple;
+}
+
+.article {
+  position: absolute;
+  margin-top: -31%;
+  margin-left: 30%;
+  text-align: center;
+  font-family: cursive;
+  font-size: 30px;
+}
+
+.words {
+  font-size: 50px;
+}
+
+.joker {
+
+  margin-top: -8%;
+}
+
+.batman {
+  font-family: sans-script;
+  margin-top: 3em;
+  font-size:15px;
+}
+
+h2 {
+  margin-top: 12%;
+  margin-left: 4%;
+  font-family: sans-serif;
+  border-bottom:1px solid lime;
+  width:125px;
+}
+
+.happs {
+  margin-left: 4%;
+  font-family: sans-serif;
+   border-bottom:1px solid lime;
+  width:125px;
+
+}
+
+.search {
+  position:inherit;
+  font-family: sans-serif;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+button {
+  border: 3px solid purple;
+  width: 220px;
+  height: 30px;
+  margin-left: 2%;
+  position:absolute;
+}
