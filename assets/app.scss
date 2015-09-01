@@ -25,7 +25,7 @@ h5 {
 
 .cc {
   width: 100px;
-  position: absolute;
+  position: relative;
   height: 100px;
   border-radius: 70px;
   padding: 5px;
@@ -33,6 +33,10 @@ h5 {
   margin-left: 3%;
   margin-top: -5%;
   box-shadow: 0 2px 20px 0 black;
+}
+
+h2{
+  position:relative;
 }
 
 .gg {
@@ -53,32 +57,34 @@ title {
   color: purple;
 }
 
-.article {
+
+
+
+.nov{
   position: absolute;
-  margin-top: -31%;
-  margin-left: 30%;
+  display: block;
   text-align: center;
   font-family: cursive;
   font-size: 30px;
+  margin-left: 30%;
+  margin-top: 8.5%;
+
 }
+
 
 .words {
   font-size: 50px;
 }
 
-.joker {
-
-  margin-top: -8%;
-}
-
 .batman {
   font-family: sans-script;
-  margin-top: 3em;
+  margin-top: 1em;
   font-size:15px;
+  float: right;
 }
 
 h2 {
-  margin-top: 12%;
+  margin-top: 5%;
   margin-left: 4%;
   font-family: sans-serif;
   border-bottom:1px solid lime;
@@ -107,3 +113,15 @@ button {
   margin-left: 2%;
   position:absolute;
 }
+
+.lorem{
+  width:300px;
+  height:400px;
+  overflow:scroll;
+  border:3px solid purple;
+  background-color: lime;
+  position:relative;
+  margin-left: 31.5%;
+  position: relative;
+
+margin-top:5%; }
