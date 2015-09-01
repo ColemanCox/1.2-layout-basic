@@ -2,17 +2,18 @@ html {
   background: red;
 }
 
-img {
+.veryTop {
   box-shadow: 0 2px 20px 0 lime;
   width: 125%;
   height: 200px;
   margin: 0 -30px;
+  margin-top:-2%;
 }
 
 .today {
   border-radius: 30px;
   color: #3a44f4;
-  background-color: lime;
+  background-color: purple;
   box-shadow: 0 2px 10px 0;
   font-size: 30px;
   ;
@@ -32,7 +33,7 @@ h5 {
   background-color: lime;
   margin-left: 3%;
   margin-top: -5%;
-  box-shadow: 0 2px 20px 0 black;
+  box-shadow: 0 2px 20px 0 lime;
 }
 
 h2{
@@ -66,7 +67,7 @@ title {
   text-align: center;
   font-family: cursive;
   font-size: 30px;
-  margin-left: 30%;
+  margin-left: 33%;
   margin-top: 8.5%;
 
 }
@@ -120,8 +121,13 @@ button {
   overflow:scroll;
   border:3px solid purple;
   background-color: lime;
-  position:relative;
-  margin-left: 31.5%;
-  position: relative;
+  position:absolute;
+  margin-left: 34.5%;
 
-margin-top:5%; }
+margin-top:10%; }
+
+.green{
+width:220px;
+text-align: center;
+border-bottom: 2px solid purple;
+}
